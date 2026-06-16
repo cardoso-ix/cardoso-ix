@@ -1,7 +1,7 @@
 # Olá, eu sou Eduardo Cardoso
 
-**Metrologista** na Fluxo Metrologia, em transição para **Desenvolvimento Web**.  
-Desenvolvo projetos full-stack publicados em produção com **TypeScript**, **React**, **Vite** e **Supabase**.
+**Técnico de Calibração** na Fluxo Metrologia · cursando **Pós Tech em Agentes de IA** (FIAP + Alura).  
+Base em metrologia, logística e administração · projetos com **TypeScript**, **React** e **Supabase**.
 
 📍 Chapecó, SC · 🌐 [Portfólio](https://cardoso-ix.github.io/Portifolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-cardoso-213a02267)
 
@@ -19,14 +19,15 @@ Desenvolvo projetos full-stack publicados em produção com **TypeScript**, **Re
 
 ## Stack
 
-`TypeScript` `JavaScript` `HTML` `CSS` `React` `Vite` `Git` `Supabase` `PostgreSQL` `GitHub Actions`
+`LLMs` `RAG` `TypeScript` `React` `Supabase` `JavaScript` `HTML` `CSS` `Vite` `Git` `PostgreSQL`
 
-**Também:** metrologia, calibração, logística, Excel, help desk — +10 anos de experiência corporativa.
+**Também:** metrologia, calibração, logística, automação industrial — +10 anos de experiência corporativa.
 
 ---
 
 ## Formação
 
+- **Pós Tech em Agentes de IA** — FIAP + Alura (em andamento)
 - MBA Controladoria e Finanças — Cruzeiro do Sul (2022)
 - Administração — UNIFRAN (2016–2020)
 
@@ -35,4 +36,4 @@ Desenvolvo projetos full-stack publicados em produção com **TypeScript**, **Re
 ## Contato
 
 📧 **eduardoocardosoo@gmail.com**  
-🔎 Aberto a **Desenvolvedor Web Júnior / Estágio** — remoto ou Chapecó/SC
+🔎 Aberto a oportunidades em **Inteligência Artificial** e ambientes técnicos/industriais — remoto ou Chapecó/SC
